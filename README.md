@@ -10,7 +10,7 @@ The report already uploaded on the root.
 It might need to install other packages to run the entire project. 
 <br>
 If you don't want to do so. You can go to BAIDU cloud 
-<a href="https://pan.baidu.com/s/1gWavhvKYK4JMzzvG8ZolBg">https://pan.baidu.com/s/1gWavhvKYK4JMzzvG8ZolBg</a>
+<a href="https://pan.baidu.com/s/1osbWbKCrW-hsMjE4zmtSmQ">https://pan.baidu.com/s/1osbWbKCrW-hsMjE4zmtSmQ</a>
 
 
 
@@ -26,4 +26,4 @@ Report已经在根目录上上载。
 使用GitHub下载后，它可能需要安装一些依赖来运行整个项目。这可能是相对繁琐的
 <BR>
 如果你不想这样做。你可以去百度云下载我的项目，免费的
-  <a href="https://pan.baidu.com/s/1gWavhvKYK4JMzzvG8ZolBg">https://pan.baidu.com/s/1gWavhvKYK4JMzzvG8ZolBg</a>
+  <a href="https://pan.baidu.com/s/1osbWbKCrW-hsMjE4zmtSmQ">https://pan.baidu.com/s/1osbWbKCrW-hsMjE4zmtSmQ</a>
