@@ -1,4 +1,4 @@
-# Double Tank Shooting Game
+# Tank Shooting Game
 It is a two player 1V1 tanks shooting game made by Unity3D. The server is always online(because free).
 <br>
 Currently, the game can contain at most 4 players, which means 2 rooms with 1V1.
