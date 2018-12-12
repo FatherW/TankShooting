@@ -1,4 +1,4 @@
-# Tank Shooting Game
+# Tank Shooting Game (Unity3D)
 It is a two player 1V1 tanks shooting game made by Unity3D. The server is always online(because free).
 <br>
 Currently, the game can contain at most 4 players, which means 2 rooms with 1V1.
@@ -14,7 +14,7 @@ If you don't want to do so. You can go to BAIDU cloud
 
 
 
-# 双人单挑坦克射击游戏
+# 双人单挑坦克射击游戏 (Unity3D)
 这是一个由Unity3D制作的两人1V1坦克射击游戏。服务器总是在线（因为免费）。
 <BR>
 目前，游戏最多可以容纳4名玩家，这意味着2个房间1V1。
